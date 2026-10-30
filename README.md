@@ -1,15 +1,9 @@
-# Pluck Downloads
+# Pluck
 
-Public macOS app downloads and the signed update feed for Pluck.
+Pluck is a paid, proprietary macOS app.
 
-Download the latest DMG from [Releases](https://github.com/joewanjara/Pluck-Updates/releases/latest), drag Pluck into Applications, and launch it from there. Requires macOS 14 or later; supports Apple silicon and Intel.
+## Downloads are not available
 
-Source code is maintained separately in a private repository. This repository contains no application source or private signing keys.
+App downloads and update delivery are paused while commercial licensing is being configured. No public app build is available from this repository.
 
-Public-test builds are ad-hoc signed and are not Apple-notarized. The app verifies the signed update feed and update archives using its embedded public key.
-
-Build 2 and earlier need one manual installation of build 3 to enable future in-app updates.
-
-## Commercial app
-
-Pluck is a paid, proprietary app. Current releases are public-test builds. Public downloads support testing and updates; payment and license activation are not yet enabled in these test builds. Source code is not open source.
+This repository is reserved for future signed update metadata and licensed app distribution. Source code remains in a separate private repository.
